@@ -17,4 +17,20 @@ describe('App',()=>{
     expect(component.find('.comment-box')).to.exist;
   });
 
+  describe('entering some text',()=>{
+    beforeEach(()=>{
+      
+    });
+
+    it('show that text in the textarea',()=>{
+
+    });
+
+    it('when submitted, clears the input',()=>{
+
+    });
+  });
+
+
+
 });
